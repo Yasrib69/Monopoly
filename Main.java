@@ -1,7 +1,6 @@
 /**
  * Project Title: Monopoly Junior
  * Author: Yasrib Yasir Farook
- * Submission Date: 11/11/2024
  * 
  * Class Description:
  * This class is the main entry point for the Monopoly Junior game. It manages the game loop,
